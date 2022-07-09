@@ -22,17 +22,27 @@ require_once View::getView('module');
 
     <link rel="preconnect" href="https://fonts.googleapis.com/">
     <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin="">
+
     <link href="<?php echo TEMPLATE_URL; ?>static/css/css2.css" rel="stylesheet">
 
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/all.min.css" rel="stylesheet">
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/bootstrap-icons.css" rel="stylesheet">
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/all.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" integrity="sha512-PgQMlq+nqFLV4ylk1gwUOgm6CtIIXkKwaIHp/PAIWHzig/lKZSEGKEysh0TCVbHJXCLN7WetD8TFecIky75ZfQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/bootstrap-icons.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.8.3/font/bootstrap-icons.min.css" integrity="sha512-YzwGgFdO1NQw1CZkPoGyRkEnUTxPSbGWXvGiXrWk8IeSqdyci0dEDYdLLjMxq1zCoU0QBa4kHAFiRhUL3z2bow==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/animate.min.css" rel="stylesheet">
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/owl.carousel.min.css" rel="stylesheet">
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/lightbox.min.css" rel="stylesheet">
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/animate.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css" integrity="sha512-TyUaMbYrKFZfQfp+9nQGOEt+vGu4nKzLk0KaV3nFifL3K8n7lzb8DayTzLOK0pNyzxGJzGRSw78e8xqJhURJ3Q==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/owl.carousel.min.css" rel="stylesheet">-->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/assets/owl.carousel.min.css" integrity="sha512-GqP/pjlymwlPb6Vd7KmT5YbapvowpteRq9ffvufiXYZp0YpMTtR9tI6/v3U3hFi1N9MQmXum/yBfELxoY+S1Mw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/lightbox.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" integrity="sha512-EIeyz8jygFLurz4RBJgtb2xBcR7uGWs6Gr6qygPowG13vYlYIaln5FyH+DN+da3jwPtb3Dq+pLA9yTR+uB3FYg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
 <!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/bootstrap.min.css" rel="stylesheet">-->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.0/css/bootstrap.min.css" integrity="sha512-NZ19NrT58XPK5sXqXnnvtf9T5kLXSzGQlVZL9taZWeTBtXoN3xIfTdxbkQh6QSoJfJgpojRqMfhyqBAAEeiXcA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
     <link href="<?php echo TEMPLATE_URL; ?>static/css/style.css" rel="stylesheet">
 </head>
 <body>

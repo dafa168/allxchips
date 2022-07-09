@@ -84,14 +84,29 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.0/js/bootstrap.min.js" integrity="sha512-Pv/SmxhkTB6tWGQWDa6gHgJpfBdIpyUy59QkbshS1948GRmj6WgZz18PaDMOqaEyKLRAvgil7sx/WACNGE4Txw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 
-<script src="<?php echo TEMPLATE_URL; ?>static/js/wow.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/easing.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/waypoints.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/counterup.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/owl.carousel.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/lightbox.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/wow.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/easing.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/waypoints.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js" integrity="sha512-fHXRw0CXruAoINU11+hgqYvY/PcsOWzmj0QmcSOtjlJcqITbPyypc8cYpidjPurWpCnlB8VKfRwx6PIpASCUkQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/counterup.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Counter-Up/1.0.0/jquery.counterup.min.js" integrity="sha512-d8F1J2kyiRowBB/8/pAWsqUl0wSEOkG5KATkVV4slfblq9VRQ6MyDZVxWl2tWd+mPhuCbpTB4M7uU/x9FlgQ9Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/owl.carousel.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js" integrity="sha512-lo4YgiwkxsVIJ5mex2b+VHUKlInSK2pFtkGFRzHsAL64/ZO5vaiCPmdGP3qZq1h9MzZzghrpDP336ScWugUMTg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/lightbox.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha512-nUUXyEC/xe6BRSl6eTPMaXErp5wdoftIGgrCBRd51MmwMn9PnN+X2usTJb7sGphsXtKT335xWAbccalopgcjNA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script src="<?php echo TEMPLATE_URL; ?>static/js/main.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>-->
+<script src="https://cdn.jsdelivr.net/npm/rocket-loader@2.4.0/js/loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>
 </body>
 </html>
