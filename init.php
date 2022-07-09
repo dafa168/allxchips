@@ -3,7 +3,7 @@
  * 全局项加载
  *
  */
-const APP_DEBUG = 1;
+const APP_DEBUG = 0;
 
 if (APP_DEBUG) {
     error_reporting(E_ALL);
