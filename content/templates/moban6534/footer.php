@@ -107,6 +107,5 @@
 
 <script src="<?php echo TEMPLATE_URL; ?>static/js/main.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
 <script src="<?php echo TEMPLATE_URL; ?>static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>
-<!--<script src="https://cdn.jsdelivr.net/npm/rocket-loader@2.4.0/js/loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>-->
 </body>
 </html>
