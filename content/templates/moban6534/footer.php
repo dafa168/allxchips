@@ -71,26 +71,25 @@
 <a href="#" class="btn btn-lg btn-primary btn-lg-square rounded-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
 
 <!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/jquery-3.4.1.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
-<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/jquery.validate.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<script src="<?php echo TEMPLATE_URL; ?>static/js/sweetalert.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha512-bnIvzh6FU75ZKxp0GXLH9bewza/OIw6dLVh9ICg0gogclmYGguQJWl8U30WpbsGTqbIiAwxTsbe76DErLq5EDQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/jquery.validate.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.2/jquery.validate.min.js" integrity="sha512-UdIMMlVx0HEynClOIFSyOrPggomfhBKJE28LKl8yR3ghkgugPnG6iLfRfHwushZl1MOPSY6TsuBDGPK2X4zYKg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/sweetalert.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js" integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/bootstrap.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
-<script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/4.6.1/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha512-I5TkutApDjnWuX+smLIPZNhw+LhTd8WrQhdCKsxCFRSvhFx2km8ZfEpNIhF9nq04msHhOkE8BMOBj5QE07yhMA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
 
 <script src="<?php echo TEMPLATE_URL; ?>static/js/wow.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-
-<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/easing.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
-<script src="https://cdn.bootcdn.net/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-
+<script src="<?php echo TEMPLATE_URL; ?>static/js/easing.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
 <script src="<?php echo TEMPLATE_URL; ?>static/js/waypoints.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
 <script src="<?php echo TEMPLATE_URL; ?>static/js/counterup.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-
-<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/owl.carousel.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
-<script src="https://cdn.bootcdn.net/ajax/libs/OwlCarousel2/2.2.1/owl.carousel.min.js"></script>
-
-<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/lightbox.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
-<script src="https://cdn.bootcdn.net/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js"></script>
+<script src="<?php echo TEMPLATE_URL; ?>static/js/owl.carousel.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
+<script src="<?php echo TEMPLATE_URL; ?>static/js/lightbox.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
 
 <script src="<?php echo TEMPLATE_URL; ?>static/js/main.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
 <script src="<?php echo TEMPLATE_URL; ?>static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>

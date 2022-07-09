@@ -31,7 +31,8 @@ require_once View::getView('module');
     <link href="<?php echo TEMPLATE_URL; ?>static/css/owl.carousel.min.css" rel="stylesheet">
     <link href="<?php echo TEMPLATE_URL; ?>static/css/lightbox.min.css" rel="stylesheet">
 
-    <link href="<?php echo TEMPLATE_URL; ?>static/css/bootstrap.min.css" rel="stylesheet">
+<!--    <link href="--><?php //echo TEMPLATE_URL; ?><!--static/css/bootstrap.min.css" rel="stylesheet">-->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha512-rO2SXEKBSICa/AfyhEK5ZqWFCOok1rcgPYfGOqtX35OyiraBg6Xa4NnBJwXgpIRoXeWjcAmcQniMhp22htDc6g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 
     <link href="<?php echo TEMPLATE_URL; ?>static/css/style.css" rel="stylesheet">
 </head>
