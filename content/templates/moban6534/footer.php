@@ -91,8 +91,8 @@
 <!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/easing.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js" integrity="sha512-0QbL0ph8Tc8g5bLhfVzSqxe9GERORsKhIn1IrpxDAgUsbBGz/V7iSav2zzW325XGd1OMLdL4UiqRJj702IeqnQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-<script src="<?php echo TEMPLATE_URL; ?>static/js/waypoints.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/noframework.waypoints.min.js" integrity="sha512-fHXRw0CXruAoINU11+hgqYvY/PcsOWzmj0QmcSOtjlJcqITbPyypc8cYpidjPurWpCnlB8VKfRwx6PIpASCUkQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>-->
+<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/waypoints.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js" integrity="sha512-CEiA+78TpP9KAIPzqBvxUv8hy41jyI3f2uHi7DGp/Y/Ka973qgSdybNegWFciqh6GrN2UePx2KkflnQUbUhNIA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/counterup.min.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>-->
 
