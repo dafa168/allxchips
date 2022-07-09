@@ -6,7 +6,7 @@
         <div class="row g-5">
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Our Mission</h5>
-                <p><?php echo $bloginfo ?? ''; ?></p>
+                <p style="color: #fff"><?php echo $bloginfo ?? ''; ?></p>
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Quick Links</h5>
@@ -41,9 +41,9 @@
             </div>
             <div class="col-lg-3 col-md-6">
                 <h5 class="text-light mb-4">Contact Us</h5>
-                <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i> <a href="skype:<?php echo $skype ?? ''; ?>" rel="nofollow"><?php echo $skype ?? ''; ?></a> </p>
-                <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>  <?php echo $phone ?? ''; ?><br> </p>
-                <p class="mb-2"><i class="fa fa-envelope me-3"></i><?php echo $email ?? ''; ?></p>
+                <p class="mb-2" style="color: #fff"><i class="fa fa-map-marker-alt me-3"></i> <a href="skype:<?php echo $skype ?? ''; ?>" rel="nofollow"><?php echo $skype ?? ''; ?></a> </p>
+                <p class="mb-2" style="color: #fff"><i class="fa fa-phone-alt me-3"></i>  <?php echo $phone ?? ''; ?><br> </p>
+                <p class="mb-2" style="color: #fff"><i class="fa fa-envelope me-3"></i><?php echo $email ?? ''; ?></p>
                 <div class="d-flex pt-2">
                     <a class="btn btn-square btn-outline-secondary rounded-circle me-1" href=""><i class="fab fa-twitter"></i></a>
                     <a class="btn btn-square btn-outline-secondary rounded-circle me-1" href=""><i class="fab fa-facebook-f"></i></a>
