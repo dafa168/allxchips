@@ -1,0 +1,7 @@
+.idea
+/test/*
+/content/cache/*
+/content/uploadfile/*
+.htaccess
+nginx.htaccess
+/nginx.htaccess
