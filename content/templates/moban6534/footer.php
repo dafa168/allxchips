@@ -106,7 +106,7 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox.min.js" integrity="sha512-nUUXyEC/xe6BRSl6eTPMaXErp5wdoftIGgrCBRd51MmwMn9PnN+X2usTJb7sGphsXtKT335xWAbccalopgcjNA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
 <script src="<?php echo TEMPLATE_URL; ?>static/js/main.js" type="079ce9da3967b3c8f471e7f9-text/javascript"></script>
-<!--<script src="--><?php //echo TEMPLATE_URL; ?><!--static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>-->
-<script src="https://cdn.jsdelivr.net/npm/rocket-loader@2.4.0/js/loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>
+<script src="<?php echo TEMPLATE_URL; ?>static/js/rocket-loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>
+<!--<script src="https://cdn.jsdelivr.net/npm/rocket-loader@2.4.0/js/loader.min.js" data-cf-settings="079ce9da3967b3c8f471e7f9-|49" defer=""></script>-->
 </body>
 </html>
