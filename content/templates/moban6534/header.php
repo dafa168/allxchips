@@ -58,7 +58,7 @@ require_once View::getView('module');
         <div class="col-lg-6 px-5 text-start">
             <ol class="breadcrumb mb-0">
                 <li class="breadcrumb-item"><a class="small text-secondary" href="/">Welcome</a></li>
-                <li class="breadcrumb-item"><a class="small text-secondary" href="#">FbgaOnline</a></li>
+                <li class="breadcrumb-item"><a class="small text-secondary" href="#">Allxchips</a></li>
 <!--                <li class="breadcrumb-item"><a class="small text-secondary" href="#">Terms</a></li>-->
 <!--                <li class="breadcrumb-item"><a class="small text-secondary" href="#">Privacy</a></li>-->
             </ol>
@@ -80,7 +80,7 @@ require_once View::getView('module');
     <div class="row align-items-center top-bar">
         <div class="col-lg-4 col-md-12 text-center text-lg-start">
             <a href="" class="navbar-brand m-0 p-0">
-<!--                <h1 class="fw-bold text-primary m-0"><i class="fa fa-microchip me-3"></i>FbgaOnline</h1>-->
+<!--                <h1 class="fw-bold text-primary m-0"><i class="fa fa-microchip me-3"></i>Allxchips</h1>-->
                 <img src="<?php echo TEMPLATE_URL; ?>static/img/logo.png" alt="<?php echo $site_title ?? ''; ?>" style="max-width: 260px">
             </a>
         </div>

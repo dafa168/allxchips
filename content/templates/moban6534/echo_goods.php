@@ -130,7 +130,7 @@
                         </div>
                     </div>
 
-                    <p> This price is for reference only, please contact us for now price sales@fbgaonline.com </p>
+                    <p> This price is for reference only, please contact us for now price sales@allxchips.com </p>
 
                     <div class="col-lg-12 col-md-12">
                         <div class="position-relative mx-auto">
@@ -154,11 +154,11 @@
                 <div class="h-100">
                     <h6 class="section-title bg-white text-start text-primary pe-3">Product Introduction </h6>
                     <p class="mb-4">
-                        fbgaonline provides full support lattice components  <?php echo $log_title ?? ''; ?> info for users
+                        Allxchips provides full support lattice components  <?php echo $log_title ?? ''; ?> info for users
                     </p>
                        <p> lattice Unique high-performance, heterogeneous and flexible adaptive platform solutions</p>
 
-                    <p>  Which one can offer better ALTERA FBGA chips? Please Log in to fbgaonline, here you can find lattice the abundant part numbers like stock parts,
+                    <p>  Which one can offer better ALTERA FBGA chips? Please Log in to allxchips, here you can find lattice the abundant part numbers like stock parts,
                         hot offer parts,more used parts and obsolete parts etc and buy them. Waiting for your online enquiry
                     </p>
                     <p> Q: How To Order  <?php echo $log_title ?? ''; ?>?<br>
